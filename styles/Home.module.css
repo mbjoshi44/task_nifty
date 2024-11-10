@@ -1,4 +1,4 @@
-.container {
+/* .container {
   padding: 0 2rem;
 }
 
@@ -10,6 +10,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background: linear-gradient(90deg, #FFC7C7 0%, #0AA6D7 100%);
 }
 
 .footer {
@@ -126,4 +127,4 @@
   .logo img {
     filter: invert(1);
   }
-}
+} */
